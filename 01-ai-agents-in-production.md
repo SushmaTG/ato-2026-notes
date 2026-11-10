@@ -2,19 +2,6 @@
 
 Oct 19, 2026 · @Sushma
 
-## Session details
-
-Fill in during the first few minutes of the talk.
-
-| Field | Notes |
-| --- | --- |
-| Talk title |  |
-| Speaker(s) and company |  |
-| Track |  |
-| Day, time and room |  |
-| Slides or recording link |  |
-| Speaker contact (LinkedIn, GitHub, Mastodon) |  |
-
 ## Traditional software vs LLMs
 
 The talk framed the core shift as moving from **deterministic** systems (same input, same output) to **probabilistic** ones (same input, a range of likely outputs). The cell text below is my general summary of each contrast; edit it to match what the speaker said.
