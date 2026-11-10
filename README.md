@@ -1,6 +1,6 @@
 # ATO 2026 notes
 
-Talking points from the lightning sessions at All Things Open (Oct 2026), written up from photographed slides.
+Talking points from the lightning sessions at All Things Open (Oct 2026) -
 
 1. [AI Agents in Production](01-ai-agents-in-production.md)
 2. [AI Sovereignty, Ethics and Trust](02-ai-sovereignty-ethics-trust.md)
